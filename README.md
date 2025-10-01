@@ -127,9 +127,5 @@ Use this code for education and defensive work only. You may adapt it, but you a
 
 ## Contact / Want help learning ethically?
 
-If you want help turning this into a defensive exercise, creating a safe VM lab, or learning how to detect keyloggers (how to build sensors, rules, or signatures), say so and I’ll help — ethically and legally. No shady shit. 👾
-
----
-
-*Readable, minimal, and honest — like a decent tutorial and less like a shady midnight script.*
+If you want help turning this into a defensive exercise, creating a safe VM lab, or learning how to detect keyloggers (how to build sensors, rules, or signatures), say so and I’ll help — ethically and legally. No shady shit. 
 
