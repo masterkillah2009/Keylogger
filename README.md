@@ -129,3 +129,7 @@ Use this code for education and defensive work only. You may adapt it, but you a
 
 If you want help turning this into a defensive exercise, creating a safe VM lab, or learning how to detect keyloggers (how to build sensors, rules, or signatures), say so and I’ll help — ethically and legally. No shady shit. 
 
+## Social Media Info:
+LinkedIn: https://www.linkedin.com/in/kevin-hamusute-84b67a2b1/
+Instagram: https://www.instagram.com/stormythunder4k/
+
